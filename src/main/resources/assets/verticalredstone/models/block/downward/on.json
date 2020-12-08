@@ -1,0 +1,9 @@
+{
+    "parent":"block/orientable_with_bottom",
+    "textures":{
+        "top":"verticalredstone:block/in/on",
+        "front":"verticalredstone:block/side/down/on",
+        "side":"verticalredstone:block/side/down/on",
+        "bottom":"verticalredstone:block/out/on"
+    }
+}

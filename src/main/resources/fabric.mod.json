@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "verticalredstone",
+  "version": "${version}",
+  "name": "Vertical Redstone",
+  "description": "Transport your redstone signals vertically!",
+  "authors": [
+    "MarioAndWeegee3"
+  ],
+  "contact": {
+    "homepage": "https://marioandweegee3.github.io/"
+  },
+  "license": "MIT",
+  "icon": "assets/verticalredstone/textures/logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "marioandweegee3.vertical.redstone.VerticalRedstone"
+    ]
+  },
+  "mixins": [
+    "verticalredstone.mixin.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.8.7",
+    "fabric": "*",
+    "fabric-language-kotlin": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

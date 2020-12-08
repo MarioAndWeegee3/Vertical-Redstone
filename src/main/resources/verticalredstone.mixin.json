@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "marioandweegee3.vertical.redstone.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "RedstoneDustMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

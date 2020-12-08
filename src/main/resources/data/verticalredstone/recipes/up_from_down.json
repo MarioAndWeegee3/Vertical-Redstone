@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "verticalredstone:downward_transmitter"
+    }
+  ],
+  "result": {
+    "item": "verticalredstone:upward_transmitter"
+  }
+}

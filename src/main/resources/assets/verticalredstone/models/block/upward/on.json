@@ -1,9 +1,9 @@
 {
-    "parent":"block/orientable_with_bottom",
-    "textures":{
-        "top":"verticalredstone:block/out/on",
-        "front":"verticalredstone:block/side/up/on",
-        "side":"verticalredstone:block/side/up/on",
-        "bottom":"verticalredstone:block/in/on"
-    }
+  "parent": "block/orientable_with_bottom",
+  "textures": {
+    "top": "verticalredstone:block/out/on",
+    "front": "verticalredstone:block/side/up/on",
+    "side": "verticalredstone:block/side/up/on",
+    "bottom": "verticalredstone:block/in/on"
+  }
 }

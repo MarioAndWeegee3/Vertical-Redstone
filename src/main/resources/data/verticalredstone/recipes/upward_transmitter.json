@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "crc",
+    "crc",
+    "crc"
+  ],
+  "key": {
+    "c": {
+      "item": "cobblestone"
+    },
+    "r": {
+      "item": "redstone"
+    }
+  },
+  "result": {
+    "item": "verticalredstone:upward_transmitter"
+  }
+}

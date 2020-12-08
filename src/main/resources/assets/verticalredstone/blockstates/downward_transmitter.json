@@ -1,6 +1,10 @@
 {
-    "variants":{
-        "powered=true":{"model":"verticalredstone:block/downward/on"},
-        "powered=false":{"model":"verticalredstone:block/downward/off"}
+  "variants": {
+    "powered=true": {
+      "model": "verticalredstone:block/downward/on"
+    },
+    "powered=false": {
+      "model": "verticalredstone:block/downward/off"
     }
+  }
 }

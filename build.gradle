@@ -1,7 +1,7 @@
 plugins {
     id 'fabric-loom'
     id 'maven-publish'
-    id 'org.jetbrains.kotlin.jvm' version '1.4.10'
+    id 'org.jetbrains.kotlin.jvm' version '1.4.20'
 }
 
 archivesBaseName = project.archives_base_name

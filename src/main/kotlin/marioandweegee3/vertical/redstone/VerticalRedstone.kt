@@ -4,8 +4,6 @@ import marioandweegee3.vertical.redstone.block.TransmitterBlock
 import net.fabricmc.api.ModInitializer
 import net.fabricmc.fabric.api.`object`.builder.v1.block.FabricBlockSettings
 import net.minecraft.block.Blocks
-import net.minecraft.block.ChestBlock
-import net.minecraft.block.RedstoneTorchBlock
 import net.minecraft.item.BlockItem
 import net.minecraft.item.Item
 import net.minecraft.item.ItemGroup
